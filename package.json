@@ -1,0 +1,26 @@
+{
+    "name": "ADV",
+    "version": "1.0.0",
+    "description": "��#\u0000 \u0000A\u0000D\u0000V\u0000\r\u0000 \u0000",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon src/index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/alvesph/ADV.git"
+    },
+    "keywords": [],
+    "author": "Paulo Henrique Alves",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/alvesph/ADV/issues"
+    },
+    "homepage": "https://github.com/alvesph/ADV#readme",
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.6"
+    }
+}
